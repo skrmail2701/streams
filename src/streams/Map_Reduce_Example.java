@@ -16,6 +16,7 @@ public class Map_Reduce_Example {
 		
 	}
 
+	
 	private static void practiceConvertingListToMap() {
 		List <Students> studentList= Students.getAllStudents();
 		
